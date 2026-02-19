@@ -1,6 +1,6 @@
-package com.dsa.practice;
+package com.dsa.practice.singlyLinkedList;
 
-import com.dsa.practice.SinglyLinkedList;
+import com.dsa.practice.singlyLinkedList.SinglyLinkedList;
 
 public class SinglyLinkedList {
 
