@@ -6,7 +6,7 @@ public class SumOfSepReverseLinkedList {
 
 	private static LinkedList<Integer> addTwoList(LinkedList<Integer> l1, LinkedList<Integer> l2) {
 		LinkedList<Integer> result = new LinkedList<Integer>();
-
+		
 		int i = 0;
 		int carry = 0;
 		while (i < l1.size() || i < l2.size() || carry != 0) {
